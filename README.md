@@ -1,4 +1,4 @@
-#Stock Price Prediction using Machine Learning
+# Stock Price Prediction using Machine Learning
 This project aims to predict stock prices using machine learning algorithms based on historical data. The dataset used includes Tesla stock prices, containing features like Open, High, Low, Close, and Volume.
 
 ## Project Structure
